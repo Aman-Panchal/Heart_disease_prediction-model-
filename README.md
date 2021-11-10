@@ -108,7 +108,9 @@ Disadvantage:
 
 
 ## SOFTWARE & HARDWARE REQUIREMENT : 
-Software
+
+**Software**
+
 •	OS: Windows 7 or above 
 
 •	Programming language: python 3.6 
@@ -120,7 +122,9 @@ Software
 •	Libraries: panda,  sklearn,  matplotlib,  seaborn
 
 
-Hardware
+
+**Hardware**
+
 •	Processor: i5 or above 
 
 •	RAM: 8 GB 
