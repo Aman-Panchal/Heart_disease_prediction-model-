@@ -107,6 +107,20 @@ Disadvantage:
 -Not for emergency patient.
 
 
+## SOFTWARE & HARDWARE REQUIREMENT : 
+Software
+-OS: Windows 7 or above 
+-Programming language: python 3.6 
+-IDE: Anaconda prompt
+-Dependencies: numpy 
+-Libraries: panda,  sklearn,  matplotlib,  seaborn
+
+Hardware
+-Processor: i5 or above 
+-RAM: 8 GB 
+-Hard Disk: 160 GB 
+
+
 ## Future Scope
 1. Create a website. 
 
